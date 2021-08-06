@@ -14,6 +14,7 @@ public class MainActivity extends AppCompatActivity {
 
 
         Log.i("Tag","Adding for git testing");
+        Log.i("Tag","Adding for git testing");
 
     }
 
